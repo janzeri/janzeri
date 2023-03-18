@@ -1,6 +1,11 @@
-# Hi👋 I'm janzeri
+# Hi👋 I'm janzeri 
 
 <img width="" src="https://komarev.com/ghpvc/?username=janzeri" />
+
+<p align="left">
+  <a href="https://qiita.com/j4nzeri"><img src="https://badgen.org/img/qiita/j4nzeri/contributions?style=for-the-badge" alt="Contributions" /></a>
+  <a href="https://qiita.com/j4nzeri"><img src="https://badgen.org/img/qiita/j4nzeri/articles?style=for-the-badge" alt="Articles" /></a>
+</p>
 
 I'm a university student majoring in computer science.
 
