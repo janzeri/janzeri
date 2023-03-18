@@ -1,1 +1,1 @@
-# Ryotaro Eguchi [](https://komarev.com/ghpvc/?username=janzeri)
+# Ryotaro Eguchi ![](https://komarev.com/ghpvc/?username=janzeri)
