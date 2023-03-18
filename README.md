@@ -7,10 +7,10 @@
   <a href="https://qiita.com/j4nzeri"><img src="https://badgen.org/img/qiita/j4nzeri/articles?style=for-the-badge" alt="Articles" /></a>
 </p>
 
-<h3 align="left">I'm a university student majoring in computer science.</h3>
+<h3 align="left">I'm a university student majoring in computer science💻</h3>
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janzeri&layout=compact&hide_title=1&card_width=300&hide=pascal" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janzeri&layout=compact&hide_title=1&card_width=350&card_height=300&hide=pascal" alt="Top language used in my repos" />
 </div>
 
 <h1 align="left">Languages and Tools:</h1>
