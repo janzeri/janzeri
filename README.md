@@ -1,4 +1,6 @@
-# Ryotaro Eguchi <img width="" src="https://komarev.com/ghpvc/?username=janzeri" />
+# Ryotaro Eguchi
+
+<img width="" src="https://komarev.com/ghpvc/?username=janzeri" />
 
 Hi👋 I'm a university student majoring in computer science.
 
