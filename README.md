@@ -2,11 +2,6 @@
 
 <img width="" src="https://komarev.com/ghpvc/?username=janzeri" />
 
-<p align="left">
-  <a href="https://qiita.com/j4nzeri"><img src="https://badgen.org/img/qiita/j4nzeri/contributions?style=for-the-badge" alt="Contributions" /></a>
-  <a href="https://qiita.com/j4nzeri"><img src="https://badgen.org/img/qiita/j4nzeri/articles?style=for-the-badge" alt="Articles" /></a>
-</p>
-
 <h3 align="left">I'm a university student majoring in computer science💻</h3>
 
 <div align="center">
