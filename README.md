@@ -1,4 +1,4 @@
-# Hi👋 I'm janzeri
+# Hi👋
 
 <img width="" src="https://komarev.com/ghpvc/?username=janzeri" />
 
