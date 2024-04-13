@@ -1,7 +1,6 @@
 # Hi there👋
 
-<img width="" src="https://komarev.com/ghpvc/?username=janzeri" />
-<a href="https://qiita.com/j4nzeri"><img src="https://badgen.org/img/qiita/j4nzeri/articles?style=plastic" alt="Articles" /></a>
+<img width="" src="https://komarev.com/ghpvc/?username=janzeri" /> <a href="https://qiita.com/j4nzeri"><img src="https://badgen.org/img/qiita/j4nzeri/articles?style=plastic" alt="Articles" /></a>
 
 
 <div align="center">
